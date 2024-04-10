@@ -8,3 +8,14 @@
 
 ## After Adding Employee
 ![PreviewAfter-Image](./EMS3.png)
+
+## Delete Employee (test13)
+![PreviewAfter-Image](./EMS4.png)
+
+## Update Employee
+![PreviewAfter-Image](./EMS5.png)
+
+## After Updating Employee
+![PreviewAfter-Image](./EMS6.png)
+
+
