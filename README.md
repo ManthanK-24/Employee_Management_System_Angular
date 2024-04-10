@@ -5,3 +5,6 @@
 
 ## Create or Add Employee Data
 ![AddEmployee-Image](./EMS2.png)
+
+## After Adding Employee
+![PreviewAfter-Image](./EMS3.png)
